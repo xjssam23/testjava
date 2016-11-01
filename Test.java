@@ -4,6 +4,6 @@ public class Test{
 	2016-11-01 15:42
 	A修改   分支b 改了东西  分支b 又改了东西
 	}
-	fenzhi
+	fenzhi  分支 b-- 改了东西
 	2
 }
