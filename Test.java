@@ -1,5 +1,9 @@
-public class Test{
-	zhangSan edit1
-	not now deploy // zhangSan edit 
-	now deploy // zhangSan edit 
+package st;
+public class Test {
+	
+	
+	public static void old(String[] args) {
+		System.out.println("old");
+	}
+	
 }
