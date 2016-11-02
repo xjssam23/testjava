@@ -3,7 +3,7 @@ public class Test {
 	
 	
 	public static void old(String[] args) {
-		System.out.println("old");
+		System.out.println("old edit by zhangsan");
 	}
 	
 	public static void zhangsan(String[] args) {
